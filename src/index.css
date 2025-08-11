@@ -1,0 +1,12 @@
+/* src/index.css */
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: oklch(98% 0 0); /* light background */
+}
